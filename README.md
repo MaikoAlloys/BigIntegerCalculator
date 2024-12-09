@@ -16,6 +16,7 @@ The **BigInteger Calculator** is a command-line application that performs arbitr
 - **Error Handling**: Detects unsupported operations, invalid inputs, and division by zero.
 
 ## How to Use
+Navigate to the src folder, then to the BigIntegerCalculator folder, where the BigIntegerCalculator.java file containing the code is located.
 1. Clone the repository or copy the code into a Java environment such Eclipse.
 2. Compile and run the program using a Java compiler.
 3. Interact with the REPL by entering operations. For example:
